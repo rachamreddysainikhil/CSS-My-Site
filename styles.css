@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+color:  #66BFBF;
+margin-top: 50px;
+margin-bottom: 0;
+  font-size: 5em;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.6em;
+  margin-top: 0;
+  color:  #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.topcontainer {
+  background-color: #C1EFFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer {
+
+}
+
+.bottomcontainer {
+  background-color: #66BFBF;
+  padding: 10px;
+
+}
+
+.bottomcloud {
+  position: absolute;
+
+}
+
+.topcloud {
+  position: relative;
+  left: 200px;
+}
+
+.footer-link{
+  color: #E8F9FD;
+}
+.skill-row{
+  width: 30%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.codingimg{
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+.bikingimg{
+  float: right;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.textmove{
+  position: relative;
+  left: 35px;
+}
+.bike{
+  position: relative;
+  left: 35px;
+
+}
+hr{
+  border-style: dotted;
+  border-top: none;
+  width:3%;
+  border-color: #F6F6F6;
+  border-width: 10px;
+  margin: 100px auto;
+
+}
+.btn {
+  position: relative;
+  top: 50px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.contact-me{
+  height: 400px;
+}
+.blocktech{
+  width: 30%;
+  margin: auto;
+}
+p {
+  line-height: 2;
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: BLACK;
+}
